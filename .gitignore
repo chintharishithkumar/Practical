@@ -1,0 +1,11 @@
+*.o
+*.out
+addnum
+evenodd
+factorial
+file_copy_syscalls
+hw_os_explorer
+largest
+process_states
+program2
+reverse
